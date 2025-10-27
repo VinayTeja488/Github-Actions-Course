@@ -1,1 +1,1 @@
-# Github-Actions-Course
+Repository containing all the example.
