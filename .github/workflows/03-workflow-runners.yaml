@@ -8,4 +8,4 @@ jobs:
       - name: Show the Runner
         run : |
          echo "This job is running on an Ubuntu runner."
-         echo "Runner OS : $Runner_OS"
+         echo "Runner OS : ${{ runner.os }}"
