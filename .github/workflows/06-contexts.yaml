@@ -1,2 +1,12 @@
 name : 06- Contexts
 on : workflow_dispatch
+
+jobs:
+  echo:
+    runs-on : ubuntu-latest
+    steps :
+      - name : "[debug] Print start-up data"
+        run :
+          echo "Contexts"
+  
+    
