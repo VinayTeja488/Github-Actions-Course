@@ -1,2 +1,2 @@
 name : 06- Contexts
-on : push
+on : workflow_dispatch
